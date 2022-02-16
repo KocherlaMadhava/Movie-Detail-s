@@ -13,4 +13,5 @@ def data_entry():
     conn.close()
     
 create_table()
+
 data_entry()
